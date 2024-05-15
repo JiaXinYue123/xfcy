@@ -1,1 +1,9 @@
 看看贾心悦会不会发现 我爱她
+123-change
+#练习 cherry pick 命令
+git cherry-pick commitId
+或者
+git cherry-pick 分支名
+解决冲突后
+git add.
+git cherry-pick --continue
